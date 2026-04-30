@@ -61,8 +61,8 @@ export default function Home() {
       </p>
 
       <p className="MdP">
-        We are working on making the skills available publicly. For now, they are only available in our private repository.
-        <a className="MdLink" href="https://github.com/rhai-code/skills-registry">GitHub repository</a>.
+        We are working on making the skills available publicly.
+        For now, they are only available in our <a className="MdLink" href="https://github.com/rhai-code/skills-registry">private repository</a>.
       </p>
 
 
