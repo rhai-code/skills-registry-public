@@ -4,7 +4,7 @@ export function Header() {
   return (
     <header className="Header">
       <div className="HeaderInner">
-        <a href="/" className="HeaderLogoLink">
+        <a href="/skills-registry-public" className="HeaderLogoLink">
           <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor" aria-hidden>
             <rect x="2" y="2" width="7" height="7" rx="1.5" />
             <rect x="11" y="2" width="7" height="7" rx="1.5" />
